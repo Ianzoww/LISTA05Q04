@@ -1,0 +1,6 @@
+@LISTA05_HUMBERTO_HostAddress = http://localhost:5042
+
+GET {{LISTA05_HUMBERTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

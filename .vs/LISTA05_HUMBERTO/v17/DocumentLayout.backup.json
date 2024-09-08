@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|c:\\users\\ian\\source\\repos\\lista05_humberto\\lista05_humberto\\uteis\\validarregistroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|solutionrelative:lista05_humberto\\uteis\\validarregistroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|c:\\users\\ian\\source\\repos\\lista05_humberto\\lista05_humberto\\validation\\validacaora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|solutionrelative:lista05_humberto\\validation\\validacaora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|c:\\users\\ian\\source\\repos\\lista05_humberto\\lista05_humberto\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|solutionrelative:lista05_humberto\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|c:\\users\\ian\\source\\repos\\lista05_humberto\\lista05_humberto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E43BCF-701D-43DC-83B0-B764248ED5B3}|LISTA05_HUMBERTO\\LISTA05_HUMBERTO.csproj|solutionrelative:lista05_humberto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidarRegistroAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Uteis\\ValidarRegistroAluno.cs",
+              "RelativeDocumentMoniker": "LISTA05_HUMBERTO\\Uteis\\ValidarRegistroAluno.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Uteis\\ValidarRegistroAluno.cs",
+              "RelativeToolTip": "LISTA05_HUMBERTO\\Uteis\\ValidarRegistroAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:42:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidacaoRA.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Validation\\ValidacaoRA.cs",
+              "RelativeDocumentMoniker": "LISTA05_HUMBERTO\\Validation\\ValidacaoRA.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Validation\\ValidacaoRA.cs",
+              "RelativeToolTip": "LISTA05_HUMBERTO\\Validation\\ValidacaoRA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:05:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "LISTA05_HUMBERTO\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Models\\Aluno.cs",
+              "RelativeToolTip": "LISTA05_HUMBERTO\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:35:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "LISTA05_HUMBERTO\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\LISTA05_HUMBERTO\\LISTA05_HUMBERTO\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "LISTA05_HUMBERTO\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:33:47.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

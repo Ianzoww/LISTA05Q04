@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LISTA05_HUMBERTO.props" />
+</Project>
